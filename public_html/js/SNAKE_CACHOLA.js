@@ -43,5 +43,9 @@ function snakeDraw(){
     }
 }
 function snakeUpdate(){
+    var snakeHeadX = snake[0].x;
+    var snakeHeadY = snake[0].y;
+    
+    snakeHeadX++;
     
 }

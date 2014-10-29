@@ -6,3 +6,7 @@ body{
  #game-screen{
      display: block;
  }
+ #GAMEOVER{
+     postion:absolute;
+     visibility: hidden;
+ }

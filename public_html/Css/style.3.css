@@ -7,6 +7,6 @@ body{
      display: block;
  }
  #GAMEOVER{
-     postion:absolute;
+     position:absolute;
      visibility: hidden;
  }

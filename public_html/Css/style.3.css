@@ -10,3 +10,18 @@ body{
      position:absolute;
      visibility: hidden;
  }
+ h1, h3{
+     font-family: 'Shadows Into Light', cursive;
+     text-align: center;
+ }
+ .title{
+     font-size: 65px;
+     margin-bottom: 0px;
+ }
+ #restartButton{
+     border: 2px solid black ;
+     border-radius: 10px;
+ }
+ #restartButton:hover{
+     background-color:#3300cc;
+ }
